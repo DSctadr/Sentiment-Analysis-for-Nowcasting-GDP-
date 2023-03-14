@@ -21,3 +21,10 @@ During COVID-19, including vaccination rollout : (Q1,2021-Q3, 2022)
 
 ## Requirements
 There are some general library requirements for the project as follows:
+
+• numpy
+
+• nltk
+
+• googletrans
+
