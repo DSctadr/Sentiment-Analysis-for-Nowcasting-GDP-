@@ -24,7 +24,7 @@ There are some general library requirements for the project as follows:
 
 • numpy
 
-• VADER(Natural Language Toolkit
+• VADER(Natural Language Toolkit)
 
 • googletrans
 
