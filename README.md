@@ -54,3 +54,8 @@ There are some general library requirements for the project as follows:
           process of loading directory task easier.
 
 
+
+## Methodology Summary
+![image](https://user-images.githubusercontent.com/106640534/225506086-9123775a-406e-4e7c-b1da-3b8f3f90dd80.png)
+
+
