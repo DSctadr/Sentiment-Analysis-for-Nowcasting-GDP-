@@ -32,6 +32,7 @@ There are some general library requirements for the project as follows:
 
 • pandas
 
+• langdetect
 
 ## Project Steps
 
