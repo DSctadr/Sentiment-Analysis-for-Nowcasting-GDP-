@@ -24,7 +24,32 @@ There are some general library requirements for the project as follows:
 
 • numpy
 
-• nltk
+• VADER(Natural Language Toolkit
 
 • googletrans
+
+• Spark(Natural Language Processing)
+
+• pandas
+
+
+## Project Steps
+
+1. Download the "Data" folder since it contains the dataset for the project.
+
+2. Download the "Code" folder since it contains the whole coding for this project.
+
+3. Open "GDP Sentiment Analysis.ipynb" in python IDE, change the directory for loading dataset and run step 1-9.
+
+4. Open "Spark_Sentiment.ipynb" in GoogleColab and start executing step 1-10.
+
+5. Open "GDP Sentiment Analysis.ipynb" in python IDE and start executing step 10 until the end.
+
+6. Open "Spark_test.ipynb" in python IDE and start executing step 1-6.
+
+7. Open "Visualization(VADER & Spark).ipynb in python IDE and start executing step 1 to 11.
+
+**Note:** Every result file produced by the coding need to store in one Code folder in order to make 
+          process of loading directory task easier.
+
 
