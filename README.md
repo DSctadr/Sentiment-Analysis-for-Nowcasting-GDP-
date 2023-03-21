@@ -1,7 +1,7 @@
 # Sentiment Analysis for Gross Domestic Product (GDP)
 
 ## Objectives and Goal
-It is crucial to consider how sentiment analysis and data extraction from economic news sources enables us to gain crucial information into Malaysia’s economic status. Thus, this paper wants *to investigate textual data from local news articles in improving nowcasting models.*
+It is crucial to consider how sentiment analysis and data extraction from economic news sources enables us to gain crucial information into Malaysia’s economic status. Thus, this paper wants **to investigate textual data from local news articles in improving nowcasting models.**
 
 ## Dataset Information
 This project consists of two (2) types of data :
